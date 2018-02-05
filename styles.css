@@ -1,0 +1,68 @@
+body {
+    background-color: white;
+    align-self: center;
+    max-width: 100%;
+    margin: auto;
+    padding: 7em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.startlearning {
+    border: solid transparent;
+    border-width: 1em;
+    text-align: center;
+    width: 60%;
+    height: 400px;
+    align-self: center;
+    background-image: url('https://covalence.io/static/img/home/home-hero.jpg');
+    background-color: #45b5e9;
+    margin: auto;
+    padding-top: 13%;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+
+}
+.info-ratings {
+    border: solid transparent;
+    border-width: 1em;
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    max-width: 100%;
+}
+.jumpstart {
+    border: solid transparent;
+    border-width: 1em;
+    text-align: center;
+    width: 60%;
+    margin: auto;
+}
+.starthere {
+    background-color: #ea437b;
+    color: white;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+}
+.advantages > div {
+    width: 33%;
+    margin: auto;
+    padding: 13px;
+}
+.skills {
+    float: left;
+}
+.portfolio {
+    float: right;
+}
+.career {
+    margin: auto;
+}
+.section2 {
+    padding: 50px;
+}
+.jumpcareer {
+    padding: 50px;
+}
